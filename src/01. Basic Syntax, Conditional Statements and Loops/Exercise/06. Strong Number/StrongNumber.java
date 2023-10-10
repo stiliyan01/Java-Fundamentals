@@ -5,24 +5,19 @@ public class StrongNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String numberAsString = scanner.nextLine();
-        int totalSum = 0;
+        int number = 5;
 
-        for (int i = 0; i < numberAsString.length(); i++) {
-            int number = Integer.parseInt("" + numberAsString.charAt(i));
-            int currentSum = 1;
-            for (int j = 1; j <= number; j++) {
-                currentSum *= j;
-            }
-            totalSum += currentSum;
-        }
-        int number = Integer.parseInt(numberAsString);
+        int fib1 = 0;
+        int fib2 = 1;
+        int result = 0;
 
-        if (number == totalSum) {
-            System.out.println("yes");
-        } else {
-            System.out.println("no");
+        for (int i = 2; i <= number; i++) {
+            result = fib1 + fib2;
+            fib1 = fib2;
+            fib2 = result;
         }
 
+        System.out.println("Числото на Фибоначи за " + number + " е: " + result);
     }
+
 }
