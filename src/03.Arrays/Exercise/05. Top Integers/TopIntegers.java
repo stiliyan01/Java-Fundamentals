@@ -1,18 +1,28 @@
+import java.util.Scanner;
+
 public class TopIntegers {
     public static void main(String[] args) {
-        String[] input = {"1", "4", "3", "2"};
 
+        Scanner scanner = new Scanner(System.in);
+        String[] input = scanner.nextLine().split("\\s++");
 
         for (int i = 0; i < input.length; i++) {
-            boolean bool = false;
-            int currentValue = Integer.parseInt(input[i]);
-            for (int j = i; j < input.length; j++) {
-                if (currentValue >= Integer.parseInt(input[j])) {
-                    System.out.print(input[j] + " , ");
+            int currentNumber = Integer.parseInt(input[i]);
+            boolean isTop = true;
+
+            for (int j = i + 1; j < input.length; j++) {
+                if (currentNumber <= Integer.parseInt(input[j])) {
+                    isTop = false;
+                    break;
                 }
             }
-            break;
-//            System.out.println("--");
+
+            if (isTop) {
+                System.out.print(currentNumber + " ");
+            }
         }
+
+        System.out.println();
+
     }
 }
