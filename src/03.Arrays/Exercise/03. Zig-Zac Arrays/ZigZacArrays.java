@@ -20,13 +20,10 @@ public class ZigZacArrays {
             }
         }
 
-        for (String firstElement : firstArray) {
-            System.out.print(firstElement + " ");
-        }
-        System.out.println();
-        for (String secondElement : secondArray) {
-            System.out.print(secondElement + " ");
-        }
+        System.out.println(String.join(" ",firstArray));
+        System.out.println(String.join(" ",secondArray));
+
+
 
     }
 }
