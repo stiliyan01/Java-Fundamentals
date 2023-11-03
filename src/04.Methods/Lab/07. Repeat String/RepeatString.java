@@ -7,10 +7,10 @@ public class RepeatString {
         int repeats = Integer.parseInt(scanner.nextLine());
         String string = scanner.nextLine();
 
-        repeatString(repeats,string);
+        System.out.println(repeatString(repeats, string));
 
     }
-    private static void repeatString(int repeats,String str){
-        System.out.println(String.valueOf(str).repeat(Math.max(0, repeats)));
+    private static String repeatString(int repeats,String str){
+       return (String.valueOf(str).repeat(Math.max(0, repeats)));
     }
 }
