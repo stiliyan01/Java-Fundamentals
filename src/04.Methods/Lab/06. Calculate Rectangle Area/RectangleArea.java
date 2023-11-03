@@ -7,11 +7,11 @@ public class RectangleArea {
         double width = Double.parseDouble(scanner.nextLine());
         double height = Double.parseDouble(scanner.nextLine());
 
-        rectangleArea(width,height);
+        System.out.println(rectangleArea(width, height));
     }
 
-    private static void rectangleArea(double width, double height) {
-        System.out.println(width * height);
+    private static double  rectangleArea(double width, double height) {
+        return (width * height);
     }
 
 }
