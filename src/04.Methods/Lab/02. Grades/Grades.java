@@ -1,6 +1,11 @@
+import java.util.Scanner;
+
 public class Grades {
     public static void main(String[] args) {
-        printGrade(4.50);
+        Scanner scanner = new Scanner(System.in);
+        double grade = Double.parseDouble(scanner.nextLine());
+
+        printGrade(grade);
     }
     public static void printGrade(double grade) {
         if (grade >= 2.00 && grade <= 2.99) {
