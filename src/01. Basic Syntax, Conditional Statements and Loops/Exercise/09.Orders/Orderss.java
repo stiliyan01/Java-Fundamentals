@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Orders {
+public class Orderss {
     public static void main(String[] args) {
 
         // ((daysInMonth * capsulesCount)*pricePerCapsule

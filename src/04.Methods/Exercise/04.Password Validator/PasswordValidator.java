@@ -17,7 +17,7 @@ public class PasswordValidator {
 
         if (password.length() < 6 || password.length() > 10) {
             System.out.println("Password must be between 6 and 10 characters");
-            errors=true;
+            errors = true;
         }
 
         for (int i = 0; i < password.length(); i++) {
@@ -35,11 +35,11 @@ public class PasswordValidator {
 
         if (containsSpecialCharacter) {
             System.out.println("Password must consist only of letters and digits");
-            errors=true;
+            errors = true;
         }
 
         if (digitCounter < 2) {
-            errors=true;
+            errors = true;
             System.out.println("Password must have at least 2 digits");
         }
 
