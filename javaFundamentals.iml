@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/temp1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/temp2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/01. Student Information" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. goshko" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. goshko/EXercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/01. Ages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/02. Division" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/03. Vacation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/04. Print and Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/05. Login" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/06. Strong Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/07.Vending Machine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/08.Triangle of Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/02. Divisible by 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/03. Foreign language" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/04. I will Be Back in 30 Minutes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/05. Month printer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/06. Theatre Promotion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/07. Sum Of Odd Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/08. Multiplication Table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/09. Multiplication Table 2.0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Lab/10. Even Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Multiplication Table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/09.Orders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/10.Padawan Equipment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/01. Basic Syntax, Conditional Statements and Loops/Exercise/11.Rage Expenses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/01.Integer Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/02.Sum of Digits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/03. Elevator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/04. Sum of Chars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/05.Print Part of ASCII Table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/06.Triples of Latin Letters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/07.Water Overflow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/08.Beer Kegs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/09.Spice Must Flow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/10. Poke Mon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/11.Snowballs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/01. Convert Meters to Kilometers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/02.Pounds to Dollars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/04. Town Info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/05.Concat Names" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/07. Reversed Chars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/08. Lower to Upper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/09. Centuries to Minutes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/10.Special Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/11. Refactor Volume of Pyramid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/12. Refactor Special Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Lab/03.Exact Sum of Real Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/10. Spice Must Flow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/11. Poke mon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/02. Data Types and Variables/Exercise/11. Snowballs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/01. Day of Week" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/01. Train" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/02. Common Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/02. Print Numbers in Reverse Order" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/03. Sum Even Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/03. Zig-Zac Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/04. Array Rotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/05. Top Integers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/06. Equals Sums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/07. Max Sequence of Equal Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/08. Magic Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/09. Kamino Factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Exercise/10. LadyBugs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab/01. Day of Week" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab/02. Print Numbers in Reverse Order" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab/04. Reverse Array of Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab/05. Even and Odd Substraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab/06.Equal Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab/07. Condense Array to Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/03.Arrays/Lab/03. Sum Even and Odd Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/01.Smallest Of Three Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/02.Vowels Count" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/03.Characters in Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/04.Password Validator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/05.NxN Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/06.Factorial Division" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/07.Palindrome Integers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/08.Top Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Exercise/09.Array Manipulator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/01. Sign of Integer Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/02. Grades" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/03. Printing Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/04.Calculations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/05. Orders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/06. Calculate Rectangle Area" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/07. Repeat String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/08. Math Power" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/09. Greater of Two Values" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/10. Multiply Even by Odds" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/04.Methods/Lab/11. Math Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/01. Train" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/02. Change List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/03. House Party" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/04. List Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/05.Bomb Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/06. Cards Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/07. Append Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/08. Anonymous Threat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/09. Pokemon Don't Go" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Exercise/10. SoftUni Course Planning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab/01. Sum Adjacent Equal Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab/02. Gauss Trick" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab/03. Merging Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab/04. List Manipulation Basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab/05.List Manipulation Advanced" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab/06.List of Products" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/05. Lists/Lab/07.Remove Negative and Reverse" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+  </component>
+</module>
